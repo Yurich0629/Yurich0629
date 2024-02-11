@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-iOS-developer
+iOS - developer
 -------------
 
 * 🌍  I'm based in Moscow, Tel-Aviv
